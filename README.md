@@ -1,10 +1,14 @@
-- 👋 Hi, I’m @YoshidaNaTe
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
 
-<!---
-YoshidaNaTe/YoshidaNaTe is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+
+
+## My Github Stats
+
+<div align="center">
+    <img align="" src="https://github-readme-stats.vercel.app/api?username=ysdnate&show_icons=true&theme=dark"/>
+</div>
+
+## My Most Used Languages
+
+<div align="center">
+  <img align=""  src="https://github-readme-stats.vercel.app/api/top-langs/?username=ysdnate&theme=dark&hide=html&langs_count=6"/>
+</div>
